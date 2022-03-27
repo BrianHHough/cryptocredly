@@ -1,0 +1,6 @@
+artifacts
+cache
+node_modules
+coverage
+.env
+.env.example
