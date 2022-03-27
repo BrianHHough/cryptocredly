@@ -6,7 +6,10 @@ A decentralized dapp for professional credentialing to help devs verify their sk
 
 ## Demo
 
-https://github.com/BrianHHough/cryptocredly/blob/main/assets/lfgrow%20hackathon%20demo.mp4
+
+https://user-images.githubusercontent.com/56947075/160295451-e507ab9c-e445-45d0-973d-7e927810e4ac.mp4
+
+Link: https://github.com/BrianHHough/cryptocredly/blob/main/assets/lfgrow%20hackathon%20demo.mp4
 
 ### Tools Utilized:
 
