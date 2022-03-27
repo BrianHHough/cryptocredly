@@ -4,13 +4,15 @@
 
 A decentralized dapp for professional credentialing to help devs verify their skills in a competitive tech market.
 
+## Demo
+
+https://github.com/BrianHHough/cryptocredly/blob/main/assets/lfgrow%20hackathon%20demo.mp4
+
 ### Tools Utilized:
 
 - **Front-End:** NEXTjs with TypeScript
-- **Back-End:** Solidity (Smart Contracts) + Moralis (Database) + Thirdweb (Middleware)
-- **Blockchain:** Polygon (ERC20 Coin Contract + ERC721 NFT Contract)
-- **Video Streaming:** Livepeer (Decentralized Streaming)
-- **Storage:** IPFS & Filebase (NFTs)
+- **Back-End:** Ethers.js (Web3 API) + Solidity (Smart Contracts) + Moralis (Web3 Database + Hooks)
+- **Blockchain:** LENS Protocol (Social Graph) + Polygon (Mumbai Testnet)
 
 ## Getting Started
 

@@ -9,6 +9,6 @@ module.exports = {
       NEXT_PUBLIC_MORALIS_SERVER_URL: process.env.NEXT_PUBLIC_MORALIS_SERVER_URL
   },
   images: {
-      domains: ['localhost'],
+      domains: ['localhost', 'upload.wikimedia.org', 'miro.medium.com', 'i.pinImage.com', 'i.pinimage.com', 'www.coveros.com'],
   },
 }
